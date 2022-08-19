@@ -27,7 +27,7 @@
 
 ## :information_source: About
 
-Galerie is a NFT Marketplace that enables the creation, sale, and purchase of digital art as NFTs.
+A decentralized marketplace that enables the creation, sale, and purchase of digital art as NFTs.
 
 
 <a id='preview'/>
