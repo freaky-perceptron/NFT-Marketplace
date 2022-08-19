@@ -138,9 +138,9 @@ This project is under the **MIT license**. See the [LICENSE](https://github.com/
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nataliebravo/" target="_blank" >
-  <img alt="Linkedin - Natalie Bravo" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
+  <img alt="Linkedin - Bhavesh Patil" src="[https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin](https://www.linkedin.com/in/bpatil2712/)">
 </a>
-<a href="mailto:natalie.bravo@ice.ufjf.br" target="_blank" >
+<a href="mailto:bpatil2712@gmail.com" target="_blank" >
   <img alt="Email - Natalie Bravo" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
 </a> 
 <br/>
