@@ -20,8 +20,6 @@
 - [Architecture and Client-side Flow](#architecture)
 - [Built with](#technologies)
 - [How to Use](#how-to-use)
-- [TODO](#todo)
-- [License](#license)
 
 <a id='about'/>
 
@@ -117,12 +115,6 @@ $ yarn
 $ yarn start
 ```
 
-
-<a id='license'/>
-
-## :page_with_curl: License
-
-This project is under the **MIT license**. See the [LICENSE](https://github.com/BravoNatalie/NFT-Marketplace/blob/master/LICENSE) for more information.
 
 
 ## :mailbox_with_mail: Get in touch!
