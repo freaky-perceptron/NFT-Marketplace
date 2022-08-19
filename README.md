@@ -34,7 +34,7 @@ A decentralized marketplace that enables the creation, sale, and purchase of dig
 Check out how it looks:
 
 <p align="center">
- <img alt="Homepage print"   src="https://github.com/freaky-perceptron/NFT-Marketplace-on-blockchain/images/preview.png" >
+ <img alt="Homepage print"   src="https://github.com/freaky-perceptron/NFT-Marketplace-on-blockchain/blob/master/images/preview.png" >
 <p />
 
 <a id='architecture' />
@@ -42,11 +42,11 @@ Check out how it looks:
 ## :information_source: Architecture and Client-side Flow
 
 <p align="center">
-  <img alt="https://github.com/freaky-perceptron/NFT-Marketplace-on-blockchain/images/flow_1.png">
+  <img alt="https://github.com/freaky-perceptron/NFT-Marketplace-on-blockchain/blob/master/images/flow_1.png">
 <p />
 
 <p align="center">
-  <img alt="https://github.com/freaky-perceptron/NFT-Marketplace-on-blockchain/images/flow_2.png">
+  <img alt="https://github.com/freaky-perceptron/NFT-Marketplace-on-blockchain/blob/master/images/flow_2.png">
 <p />
 
 
