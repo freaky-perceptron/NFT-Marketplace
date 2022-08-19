@@ -119,7 +119,7 @@ $ yarn start
 ## :mailbox_with_mail: Get in touch!
 
 <a href="mailto:bpatil2712@gmail.com" target="_blank" >
-  <img alt="Email - Natalie Bravo" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+  <img alt="Email - Bhavesh Patil" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
 </a> 
 <br/>
   Made with :coffee: and ❤️ by <b>Bhavesh Patil</b>.
