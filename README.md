@@ -1,5 +1,5 @@
 <h1 align=center>
-<img src="https://github.com/freaky-perceptron/NFT-Marketplace-on-blockchain/images/home.png" />
+<img src="https://github.com/freaky-perceptron/NFT-Marketplace-on-blockchain/blob/master/images/home.png" />
 </h1>
 
 <div align="center">
