@@ -117,15 +117,6 @@ $ yarn
 $ yarn start
 ```
 
-<a id='todo'/>
-
-## :page_with_curl: TODO
-
-There are some things to be done in the project:
-  - State persistence;
-  - Revise front-end call to the buy and sell functions on the blockchain;
-  - Error handling;
-  - NFT cards to reflect the true information of price coming from the blockchain.
 
 <a id='license'/>
 
@@ -136,10 +127,6 @@ This project is under the **MIT license**. See the [LICENSE](https://github.com/
 
 ## :mailbox_with_mail: Get in touch!
 
-<p align="center">
-<a href="https://www.linkedin.com/in/nataliebravo/" target="_blank" >
-  <img alt="Linkedin - Bhavesh Patil" src="[https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin](https://www.linkedin.com/in/bpatil2712/)">
-</a>
 <a href="mailto:bpatil2712@gmail.com" target="_blank" >
   <img alt="Email - Natalie Bravo" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
 </a> 
