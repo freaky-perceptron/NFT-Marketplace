@@ -1,5 +1,5 @@
 <h1 align=center>
-<img src="https://res.cloudinary.com/nataliebravo/image/upload/v1630406853/NFT/banner_npzzzz.png" />
+<img src="https://github.com/freaky-perceptron/NFT-Marketplace-on-blockchain/images/home.png" />
 </h1>
 
 <div align="center">
@@ -34,7 +34,7 @@ A decentralized marketplace that enables the creation, sale, and purchase of dig
 Check out how it looks:
 
 <p align="center">
- <img alt="Homepage print"   src="https://res.cloudinary.com/nataliebravo/image/upload/v1630412771/NFT/galerie-homepage_kznhvx.png" >
+ <img alt="Homepage print"   src="https://github.com/freaky-perceptron/NFT-Marketplace-on-blockchain/images/preview.png" >
 <p />
 
 <a id='architecture' />
@@ -42,11 +42,11 @@ Check out how it looks:
 ## :information_source: Architecture and Client-side Flow
 
 <p align="center">
-  <img alt="Client-Flow"src="https://res.cloudinary.com/nataliebravo/image/upload/v1626701427/NFT/client-side-flow_iqhq9a.png">
+  <img alt="https://github.com/freaky-perceptron/NFT-Marketplace-on-blockchain/images/flow_1.png">
 <p />
 
 <p align="center">
-  <img alt="Architecture"src="https://res.cloudinary.com/nataliebravo/image/upload/v1626701440/NFT/arquitechure_hunzuw.png">
+  <img alt="https://github.com/freaky-perceptron/NFT-Marketplace-on-blockchain/images/flow_2.png">
 <p />
 
 
